@@ -1,0 +1,1 @@
+spk_master_plugin
